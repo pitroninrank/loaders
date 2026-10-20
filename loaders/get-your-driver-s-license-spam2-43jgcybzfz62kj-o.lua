@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/get-your-driver-s-license-spam2-43jgcybzfz62kj.lua"))()
