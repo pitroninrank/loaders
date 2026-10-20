@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/anniversary-daybreak-spam6-7s5y0b7ggy6az9.lua"))()
