@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/slayers-2-spam4-rxef4gr1fy7by3.lua"))()
