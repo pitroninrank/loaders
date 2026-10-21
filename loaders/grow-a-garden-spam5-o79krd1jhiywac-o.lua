@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/grow-a-garden-spam5-o79krd1jhiywac.lua"))()
