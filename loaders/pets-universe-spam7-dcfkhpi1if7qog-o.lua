@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/pets-universe-spam7-dcfkhpi1if7qog.lua"))()
