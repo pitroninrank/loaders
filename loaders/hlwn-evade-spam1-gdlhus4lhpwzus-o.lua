@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/hlwn-evade-spam1-gdlhus4lhpwzus.lua"))()
