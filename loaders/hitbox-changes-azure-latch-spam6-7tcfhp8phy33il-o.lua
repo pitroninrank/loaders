@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/hitbox-changes-azure-latch-spam6-7tcfhp8phy33il.lua"))()
