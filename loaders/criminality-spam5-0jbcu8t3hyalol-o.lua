@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/criminality-spam5-0jbcu8t3hyalol.lua"))()
