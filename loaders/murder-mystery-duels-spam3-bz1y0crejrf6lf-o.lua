@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/murder-mystery-duels-spam3-bz1y0crejrf6lf.lua"))()
