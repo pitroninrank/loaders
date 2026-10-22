@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/fps-flick-spam2-s24znnrmiverzg.lua"))()
