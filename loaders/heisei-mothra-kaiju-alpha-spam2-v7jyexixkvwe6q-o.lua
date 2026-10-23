@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam2-v7jyexixkvwe6q.lua"))()
