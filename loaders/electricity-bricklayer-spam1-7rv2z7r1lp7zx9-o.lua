@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/electricity-bricklayer-spam1-7rv2z7r1lp7zx9.lua"))()
