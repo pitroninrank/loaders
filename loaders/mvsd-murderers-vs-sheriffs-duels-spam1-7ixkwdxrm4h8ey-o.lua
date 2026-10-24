@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam1-7ixkwdxrm4h8ey.lua"))()
